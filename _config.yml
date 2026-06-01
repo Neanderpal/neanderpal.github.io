@@ -1,0 +1,9 @@
+title: SheetHappens!
+description: Free Excel e Google Sheets templates da scaricare e usare
+baseurl: ""
+url: "https://www.sheethappens.com"
+theme: minima
+author: Francesco Palanza
+lang: en
+header_pages:
+- about.md
