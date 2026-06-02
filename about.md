@@ -2,10 +2,12 @@
 layout: page
 title: About
 ---
-SheetHappens! is a free library of Excel and Google Sheets templates for anyone to help you in your work, fun and everyday life.
+SheetHappens! is a free library of Excel and Google Sheets templates available for download by anyone, designed to help you with your work, fun, and everyday life.
 
-Just download and use.
+Download and use. It’s that simple.
 
-A new file appears when is ready and when it feels worth sharing. Feel free to suggest the new one.
+A new file appears when it’s ready and when it feels worth sharing. No strict content calendars here.
 
-SheetHappens! is a side project by Francesco Palanza, built out of a genuine passion for spreadsheets and a belief that a well-made template can save hours, spark ideas, or just make something more enjoyable.
+SheetHappens! is a side project by Francesco Palanza, built out of a genuine passion for spreadsheets and the belief that a well-made template can save hours, spark ideas, or just make a task more enjoyable.
+
+Although I am starting this solo, I want this to become a community project and eventually open it up to other contributors. If you share the love for spreadsheets and would like to contribute, feel free to submit your idea!
