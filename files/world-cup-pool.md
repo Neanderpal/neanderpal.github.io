@@ -9,6 +9,14 @@ tags: [world cup, office pool, fantasy league, excel template, free, football, 2
 
 A ready-to-use Excel template to run a World Cup 2026 office pool with your friends, family or colleagues. No apps, no subscriptions — just a spreadsheet.
 
+## Download
+
+<a href="/assets/downloads/WorldCup OfficePool Template_EN.xlsx" 
+   download="SheetHappens_WorldCupPool2026.xlsx"
+   class="btn">
+  Download Excel
+</a>
+
 ## How it works
 
 The admin sets up the number of players, the entry fee and the prize distribution. Each player fills in their predictions for the group stage, the knockout rounds and the tournament winner.
@@ -32,10 +40,4 @@ Points are calculated automatically:
 - Automatic standings and point calculation
 - Full 2026 World Cup group stage and bracket reference tab
 
-## Download
 
-<a href="/assets/downloads/WorldCup OfficePool Template_EN.xlsx" 
-   download="SheetHappens_WorldCupPool2026.xlsx"
-   class="btn">
-  Download Excel
-</a>
