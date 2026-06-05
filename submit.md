@@ -5,4 +5,4 @@ title: Submit your idea
 
 Have an idea for a new template?
 
-[Click here to submit it](INCOLLA_QUI_IL_LINK)
+[Click here to submit it](https://forms.gle/LuuWsX5DgbbRHVwYA)
