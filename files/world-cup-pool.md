@@ -2,7 +2,7 @@
 layout: page
 title: "2026 World Cup Office Pool — Free Excel Template"
 description: "Free Excel template to run a World Cup 2026 office pool with friends. Auto-scoring, prize split, group stage and knockout bracket included."
-tags: [world cup, office pool, fantasy league, excel template, free, football, 2026]
+tags: [world cup, office pool, world cup precictions, excel template, free, football, 2026]
 ---
 
 # 2026 World Cup Office Pool
