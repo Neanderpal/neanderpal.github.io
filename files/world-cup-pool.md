@@ -17,7 +17,7 @@ A ready-to-use Excel template to run a World Cup 2026 office pool with your frie
   Download Excel
 </a>
 
-<a href="https://docs.google.com/spreadsheets/d/ID_FILE/copy"
+<a href="https://docs.google.com/spreadsheets/d/1x25O3-iwOMMa8Fa2OjAut7815Dek5rlk/copy"
    target="_blank"
    class="btn">
   Copy to Google Sheets
