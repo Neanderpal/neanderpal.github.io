@@ -5,6 +5,7 @@ url: "https://www.sheethappens.com"
 theme: minima
 author: Francesco Palanza
 lang: en
+google_analytics: G-M7JF39LV16
 header_pages:
 - about.md
 - submit.md
