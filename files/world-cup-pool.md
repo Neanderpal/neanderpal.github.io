@@ -5,13 +5,13 @@ description: "Free Excel template to run a World Cup 2026 office pool with frien
 tags: [world cup, office pool, world cup precictions, excel template, free, football, 2026]
 ---
 
-![2026 World Cup Office Pool Excel Template](/assets/images/world-cup-pool.png)
+![2026 World Cup Office Pool Excel Template](/asset/images/world-cup-pool.png)
 
 A ready-to-use Excel template to run a World Cup 2026 office pool with your friends, family or colleagues. No apps, no subscriptions — download and use it.
 
 ## Download
 
-<a href="/asset/downloads/WorldCup OfficePool Template_EN.xlsx" 
+<a href="/assets/downloads/WorldCup OfficePool Template_EN.xlsx" 
    download="SheetHappens_WorldCupPool2026.xlsx"
    class="btn">
   Download Excel
