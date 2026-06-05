@@ -17,6 +17,12 @@ A ready-to-use Excel template to run a World Cup 2026 office pool with your frie
   Download Excel
 </a>
 
+<a href="https://docs.google.com/spreadsheets/d/ID_FILE/copy"
+   target="_blank"
+   class="btn">
+  Copy to Google Sheets
+</a>
+
 ## How it works
 
 Choose the number of players, the entry fee and the prize distribution. 
